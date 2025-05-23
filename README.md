@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Reddy3218/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Reddy3218/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/Reddy3218/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Reddy3218/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/Reddy3218/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Reddy3218/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Reddy3218/Leetcode/tree/master/0898-transpose-matrix) |
@@ -100,5 +101,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Reddy3218/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Reddy3218/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
