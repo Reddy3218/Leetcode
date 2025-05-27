@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Reddy3218/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/Reddy3218/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Reddy3218/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Reddy3218/Leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Reddy3218/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Reddy3218/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Reddy3218/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Reddy3218/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Reddy3218/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Reddy3218/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
