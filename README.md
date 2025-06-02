@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Reddy3218/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Reddy3218/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0135-candy](https://github.com/Reddy3218/Leetcode/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Reddy3218/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/Reddy3218/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Reddy3218/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Reddy3218/Leetcode/tree/master/0135-candy) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Reddy3218/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
