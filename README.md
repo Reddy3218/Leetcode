@@ -90,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Reddy3218/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Reddy3218/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0861-flipping-an-image](https://github.com/Reddy3218/Leetcode/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Reddy3218/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Reddy3218/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Greedy
 |  |
 | ------- |
@@ -112,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Reddy3218/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Reddy3218/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
