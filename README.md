@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Reddy3218/Leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Reddy3218/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/Reddy3218/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Reddy3218/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Reddy3218/Leetcode/tree/master/1013-fibonacci-number) |
@@ -120,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Reddy3218/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Reddy3218/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Reddy3218/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Reddy3218/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
