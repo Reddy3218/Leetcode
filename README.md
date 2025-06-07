@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Reddy3218/Leetcode/tree/master/0135-candy) |
+| [0649-dota2-senate](https://github.com/Reddy3218/Leetcode/tree/master/0649-dota2-senate) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Reddy3218/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
@@ -140,4 +141,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Reddy3218/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/Reddy3218/Leetcode/tree/master/0649-dota2-senate) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Reddy3218/Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
