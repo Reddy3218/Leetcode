@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Reddy3218/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Reddy3218/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Reddy3218/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Reddy3218/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Reddy3218/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Reddy3218/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Sorting
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Reddy3218/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Reddy3218/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Reddy3218/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Reddy3218/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Reddy3218/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -179,10 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Reddy3218/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Reddy3218/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Reddy3218/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Reddy3218/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Reddy3218/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Reddy3218/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Reddy3218/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Reddy3218/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
