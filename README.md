@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Reddy3218/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Reddy3218/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Reddy3218/Leetcode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Reddy3218/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Reddy3218/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Reddy3218/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Reddy3218/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Reddy3218/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Reddy3218/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Reddy3218/Leetcode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Reddy3218/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Reddy3218/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Reddy3218/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Reddy3218/Leetcode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Reddy3218/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
